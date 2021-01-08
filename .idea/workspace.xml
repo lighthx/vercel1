@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bd88099-601d-4dad-9532-df3612ec3082" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/footer.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -33,28 +34,12 @@
       <option name="presentableId" value="Default" />
       <updated>1605238337304</updated>
       <workItem from="1605238338361" duration="710000" />
+      <workItem from="1610087609166" duration="42000" />
+      <workItem from="1610087657020" duration="199000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="721" y="153" key="CommitChangelistDialog2" timestamp="1605238698278">
-      <screen x="0" y="23" width="2560" height="1329" />
-    </state>
-    <state x="721" y="153" key="CommitChangelistDialog2/-1440.-438.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1605238698278" />
-    <state x="256" y="145" key="DiffContextDialog" timestamp="1605238696881">
-      <screen x="0" y="23" width="2560" height="1329" />
-    </state>
-    <state x="256" y="145" key="DiffContextDialog/-1440.-438.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1605238696881" />
-    <state x="859" y="327" width="842" height="720" key="find.popup" timestamp="1605238995664">
-      <screen x="0" y="23" width="2560" height="1329" />
-    </state>
-    <state x="859" y="327" width="842" height="720" key="find.popup/-1440.-438.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1605238995664" />
-    <state x="777" y="23" width="1005" height="1466" key="search.everywhere.popup" timestamp="1605238997201">
-      <screen x="0" y="23" width="2560" height="1329" />
-    </state>
-    <state x="777" y="23" width="1005" height="1466" key="search.everywhere.popup/-1440.-438.1440.2537/0.23.2560.1329@0.23.2560.1329" timestamp="1605238997201" />
   </component>
 </project>
